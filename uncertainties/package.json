@@ -18,6 +18,8 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "matter-js": "^0.18.0",
+    "p5-svelte": "^3.1.2",
     "sirv-cli": "^2.0.0"
   }
 }
